@@ -1,0 +1,23 @@
+
+    table {
+    
+        width: 50%;
+        border-collapse: collapse;
+        margin: 20px auto; 
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: #A1D6B2;
+    }
+    h1 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 24px;
+    }
+
+
